@@ -4,7 +4,7 @@
 	<title>www.malasngoding.com</title>
 </head>
 <body>
-
+	<h1>Tambahan github</h1>
 	<h2>Input Data User</h2>
 	<form action="proses.php?aksi=tambah" method="post">
 		<table>
