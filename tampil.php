@@ -8,6 +8,7 @@
 	<title>Tampil PHP</title>
 </head>
 <body>
+	<h1>Tambahan Github</h1>
 	<h1>Data User</h1>
 	<a href="input.php">Input Data</a>
 	<table border="1">
